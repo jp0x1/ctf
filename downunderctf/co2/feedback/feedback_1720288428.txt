@@ -1,0 +1,4 @@
+content: {{7*7}}
+rating: 77
+referred: {{7*7}}
+title: {{7*7}}
